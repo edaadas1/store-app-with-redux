@@ -1,3 +1,5 @@
+[shopping.webm](https://github.com/edaadas1/store-app-with-redux/assets/86204667/83c78be4-549d-4362-a3f1-e4167c62359d)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
